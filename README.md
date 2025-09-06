@@ -1,12 +1,16 @@
 # 👋 Hi, I'm GByteBanger
 
 🎯 I'm a programming student in high school with a strong interest in becoming a **software developer**.
-<br>
+<br><br>
 ![Status](https://img.shields.io/badge/status-learning-blue)
 <br>
 ![OS](https://img.shields.io/badge/OS-Linux-informational)
 <br>
-![Editor](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blueviolet)
+![Languages](https://img.shields.io/badge/code-C/C++/C#-orange)
+<br>
+![Editor](https://img.shields.io/badge/IDE-VSCode-blueviolet)
+<br>
+![Platform](https://img.shields.io/badge/Target-Embedded/Kernel/dev-important)
 <br>
 
 ## 🛠️ Tech Stack
