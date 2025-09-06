@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm GByteBanger
 
-<!--
-**GByteBanger/GByteBanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I'm a third-year programming student in technical high school with a strong interest in becoming a **software developer**.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies I work with
+- 💻 C / C++ / C#
+- 🌐 HTML / CSS / JavaScript
+- 🛢️ SQL
+- 🐧 Linux
+- 🔌 STM32 (Embedded)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 Projects
+- 🧱 A basic **3D graphics engine**
+- 📱💻 A custom **cross-platform engine** for building mobile and desktop apps  
+*(more details coming soon)*
+
+## ⚙️ Interests
+- 🖥️ Desktop app development  
+- 🔧 Backend systems  
+- 📡 Embedded systems  
+- 🧠 Low-level / Kernel development
+
+## 🤓 Fun fact
+> “I’m not out there sweating for three hours every day just to find out what it feels like to sweat.”  
+> — *Michael Jordan*
+
+## 📫 How to reach me
+<!-- Add your preferred contact method below, or leave blank -->
