@@ -7,7 +7,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,sql,linux" />
+  <img src="https://skillicons.dev/icons?i=cmake,c,cpp,cs,html,css,js,mysql,arch,bash,linux,neovim,blender" />
 </div>
 
 ---
@@ -29,7 +29,7 @@
 
 ---
 
-## 🤓 Fun Quote
+## 🤓
 
 > “I’m not out there sweating for three hours every day just to find out what it feels like to sweat.”  
 > — *Michael Jordan*
