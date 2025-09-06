@@ -6,8 +6,6 @@
 <br>
 ![OS](https://img.shields.io/badge/OS-Linux-informational)
 <br>
-![Languages](https://img.shields.io/badge/code-C/C++/C#-orange)
-<br>
 ![Editor](https://img.shields.io/badge/IDE-VSCode-blueviolet)
 <br>
 ![Platform](https://img.shields.io/badge/Target-Embedded/Kernel/dev-important)
