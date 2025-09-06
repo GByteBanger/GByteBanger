@@ -8,7 +8,6 @@
 <br>
 ![Editor](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blueviolet)
 <br>
----
 
 ## 🛠️ Tech Stack
 
@@ -16,7 +15,6 @@
   <img src="https://skillicons.dev/icons?i=cmake,c,cpp,cs,html,css,js,mysql,arch,bash,linux,neovim,blender" />
 </div>
 
----
 
 ## 🚧 Projects
 
@@ -24,7 +22,6 @@
 - 📱💻 A custom **cross-platform engine** for building mobile and desktop apps  
   *(more details coming soon)*
 
----
 
 ## ⚙️ Interests
 
@@ -33,13 +30,8 @@
 - 📡 Embedded systems  
 - 🧠 Low-level / Kernel development
 
----
 
 ## 🤓
 
 > “I’m not out there sweating for three hours every day just to find out what it feels like to sweat.”  
 > — *Michael Jordan*
-
----
-
-<!-- You can add contact links, GitHub stats, or pinned repos below -->
